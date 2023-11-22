@@ -1,6 +1,6 @@
 # Full-Stack Linkedin Clone Link Preview :
 
-https://linkedin-clone-17d48.firebaseapp.com/
+[https://linkedin-clone-17d48.firebaseapp.com/](https://655e70221c57177c9b8ded45--musical-marzipan-d9d94e.netlify.app/)
 
 <img src="./Capture.PNG"> <br>
 
