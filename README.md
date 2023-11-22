@@ -1,4 +1,30 @@
-# React + Vite
+# Full-Stack Linkedin Clone Link Preview :
+
+https://linkedin-clone-17d48.web.app/
+
+<img src="./Capture.PNG"> <br>
+
+# Tools
+
+- html <br>
+- css <br>
+- styled-components <br>
+- javascript <br>
+- react router dom <br>
+- react hooks <br>
+- react-player <br>
+- redux <br>
+- redux-thunk <br>
+- firebase <br>
+
+# Features
+
+- LogIn page<br>
+- firebase authentication with google account <br>
+- firebase storage <br>
+- Home page <br>
+- user can login and add posts [image - video link - text] <br>
+- user can logout <br>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
