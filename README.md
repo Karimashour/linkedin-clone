@@ -1,6 +1,6 @@
 # Full-Stack Linkedin Clone Link Preview :
 
-https://linkedin-clone-17d48.web.app/
+https://linkedin-clone-17d48.firebaseapp.com/
 
 <img src="./Capture.PNG"> <br>
 
